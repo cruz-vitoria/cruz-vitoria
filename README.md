@@ -1,7 +1,7 @@
 # Olá, sou a Vitória Oliveira 👋  
 **Bem-vindo(a) ao meu espaço no GitHub!**
 
-![welcome gif](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
+![Marketing criativo](https://media.giphy.com/media/gULIRc6vbkE5WZBbVs/giphy.gif)
 
 Sou estudante de **Tecnologia em Marketing Digital e Inteligência de Dados**, tenho 21 anos e atualmente curso o **3º período**. Sou apaixonada por unir a **criatividade do marketing** com a **precisão dos dados** para gerar resultados impactantes.
 
