@@ -1,30 +1,46 @@
+# Olá, sou a Vitória Oliveira 👋  
+**Bem-vindo(a) ao meu espaço no GitHub!**
 
+![welcome gif](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
 
-#Olá, sou Vitória Oliveira 👋
-Bem-vindo(a) ao meu espaço no GitHub!
+Sou estudante de **Tecnologia em Marketing Digital e Inteligência de Dados**, tenho 21 anos e atualmente curso o **3º período**. Sou apaixonada por unir a **criatividade do marketing** com a **precisão dos dados** para gerar resultados impactantes.
 
-Sou estudante de Tecnologia em Marketing Digital e Inteligência de Dados, com 21 anos, e estou no 3º período. Minha paixão é unir a criatividade do marketing com a precisão dos dados para gerar resultados impactantes. Sou movida pelo desafio de inovar em cada projeto e adoro formular networks para construir conexões profissionais.
+Adoro desafios e acredito no poder do networking para construir conexões profissionais valiosas.
 
-🎯 Sobre Mim
-Tenho grande interesse em transformar informações em estratégias eficazes. Minha jornada acadêmica e profissional me leva a explorar a fundo como a análise de dados pode impulsionar o sucesso de uma campanha de marketing.
+---
 
-Possuo noções básicas em:
+## 🎯 Sobre Mim
 
-🐍 Python: Utilizo a linguagem para manipulação e análise de dados, explorando seu potencial para automatizar tarefas e extrair insights valiosos.
+Tenho grande interesse em **transformar informações em estratégias eficazes**. Minha jornada acadêmica e profissional me leva a explorar como a **análise de dados** pode impulsionar o sucesso de campanhas de marketing.
 
-🎨 Design Digital: Conhecimento em ferramentas de design para criar materiais visuais que comunicam de forma clara e atraente.
+### 💡 Conhecimentos Básicos:
 
-Meu principal foco está em:
+- 🐍 **Python**: Manipulação e análise de dados, automação de tarefas e extração de insights.  
+- 🎨 **Design Digital**: Ferramentas para criar materiais visuais atrativos e claros.
 
-Mídias Sociais: Estratégias de conteúdo, análise de performance e engajamento.
+---
 
-Desenvolvimento de Projetos: Desde a concepção da ideia até a execução, me dedico a entregar soluções que gerem resultados reais.
+## 🚀 Áreas de Foco
 
-🛠️ O que você vai encontrar aqui
-Este é o meu portfólio de projetos, onde compartilho meus aprendizados e experimentações. Por aqui, você encontrará os projetos que tenho desenvolvido durante a minha jornada na faculdade, que incluem:
+- **Mídias Sociais**: Estratégias de conteúdo, análise de performance e aumento de engajamento.  
+- **Desenvolvimento de Projetos**: Da ideia à execução, com foco em resultados reais.
 
-Análise de Dados: Pequenos projetos e estudos de caso utilizando Python para extrair insights.
+---
 
-Projetos de Marketing: Simulações de campanhas, análises de concorrência e estratégias de conteúdo.
+## 🛠️ O que você vai encontrar aqui
 
-Projetos Pessoais: Ideias e conceitos que estou desenvolvendo.
+Este é o meu **portfólio de projetos**, onde compartilho meus aprendizados, experimentações e avanços. Aqui você encontra:
+
+- 📊 **Análise de Dados**: Projetos e estudos de caso com Python.  
+- 📈 **Projetos de Marketing**: Simulações de campanhas, análises de concorrência e estratégias de conteúdo.  
+- 🌱 **Projetos Pessoais**: Ideias, iniciativas e conceitos em desenvolvimento.
+
+---
+
+## 📬 Vamos nos conectar?
+
+Me envie uma mensagem ou me siga nas redes — sempre aberta a **colaborações e boas conversas!**
+
+---
+
+> _"Transformar dados em decisões e ideias em impacto."_ ✨
