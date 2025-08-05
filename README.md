@@ -38,10 +38,3 @@ Este é o meu **portfólio de projetos**, onde compartilho meus aprendizados, ex
 
 ---
 
-## 📬 Vamos nos conectar?
-
-Me envie uma mensagem ou me siga nas redes — sempre aberta a **colaborações e boas conversas!**
-
----
-
-> _"Transformar dados em decisões e ideias em impacto."_ ✨
