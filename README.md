@@ -1,7 +1,7 @@
 # Olá, sou a Vitória Oliveira 👋  
 **Bem-vindo(a) ao meu espaço no GitHub!**
+![Dados com estilo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmE4bWpkb3ZvcTJxY3dpaXprbWdudDJtczBrNzZ2eWV4cmZ2YWp1byZlcD12MV8zNmNmMGVjZjk3NDcyYmUwNzY1YjBhZjg1NGFkNTczMzZmZjNkNjgxMA/DKnMQYeh1At8lK5nUq/giphy.gif)
 
-![Bem-vindo profissional](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnYzN3Fhb3dpNXYxMjl0dWsyd3J2djhzZHV6cXh3MHYxd2U0ODgycyZlcD12MV8zNmNmMGVjZjk3NDcyYmUwNzY1YjBhZjg1NGFkNTczMzZmZjNkNjgxMA/OPU6wzx8JrHna/giphy.gif)
 
 
 Sou estudante de **Tecnologia em Marketing Digital e Inteligência de Dados**, tenho 21 anos e atualmente curso o **3º período**. Sou apaixonada por unir a **criatividade do marketing** com a **precisão dos dados** para gerar resultados impactantes.
